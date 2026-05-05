@@ -18,3 +18,33 @@ The objective of this project is to explore core smart contract concepts through
 
 ---
 
+📖 Learning Outcomes
+
+Through this project, the following concepts were implemented and tested:
+
+- Smart contract structure and syntax  
+- Data types (value and reference types)  
+- Functions and modifiers  
+- Address handling and interactions  
+- Data structures (arrays, structs, mappings)  
+- Contract inheritance  
+- Basic contract patterns (e.g., voting, escrow)  
+- Unit testing using Foundry  
+
+---
+
+👥 Team & Responsibilities
+
+| Name                    | Id         | Responsibilities 
+
+1 - Huzeyfa Suleyman      - Ugr/30699/15             -  Environment setup, initial contracts, coordination 
+2 - Chernet Mequannent    - Ugr/26553/14            -  Environment setup, initial contracts, coordination 
+3 - Amanuel Asfaw         - Ugr/30147/15          -  Environment setup, initial contracts, coordination 
+4 - Moges Tesema          - Ugr/30952/15             -  Environment setup, initial contracts, coordination 
+5 - Wondimeneh Fiqadu     - ugr/31346/15              -  Environment setup, initial contracts, coordination 
+6 - Tesfaye Zeleke        - ugr/25639/14            -  Environment setup, initial contracts, coordination 
+
+
+All contributions are reflected in the repository commit history.
+
+---
