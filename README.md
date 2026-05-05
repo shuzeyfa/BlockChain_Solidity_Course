@@ -33,16 +33,16 @@ Through this project, the following concepts were implemented and tested:
 
 ---
 
-👥 Team & Responsibilities
+ 👥 Team Members & Responsibilities
 
-| Name                    | Id                | Github Repo                       | Responsibilities 
-
-1 - Huzeyfa Suleyman      - Ugr/30699/15      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
-2 - Chernet Mequannent    - Ugr/26553/14      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
-3 - Amanuel Asfaw         - Ugr/30147/15      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
-4 - Moges Tesema          - Ugr/30952/15      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
-5 - Wondimeneh Fiqadu     - ugr/31346/15      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
-6 - Tesfaye Zeleke        - ugr/25639/14      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
+| Name                | ID             | GitHub Profile                      | Responsibilities                              |
+|---------------------|----------------|-------------------------------------|----------------------------------------------|
+| Huzeyfa Suleyman    | UGR/30699/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Chernet Mequannent  | UGR/26553/14   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Amanuel Asfaw       | UGR/30147/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Moges Tesema        | UGR/30952/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Wondimeneh Fiqadu   | UGR/31346/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Tesfaye Zeleke      | UGR/25639/14   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
 
 
 All contributions are reflected in the repository commit history.
