@@ -35,14 +35,14 @@ Through this project, the following concepts were implemented and tested:
 
 👥 Team & Responsibilities
 
-| Name                    | Id         | Responsibilities 
+| Name                    | Id                | Github Repo                       | Responsibilities 
 
-1 - Huzeyfa Suleyman      - Ugr/30699/15             -  Environment setup, initial contracts, coordination 
-2 - Chernet Mequannent    - Ugr/26553/14            -  Environment setup, initial contracts, coordination 
-3 - Amanuel Asfaw         - Ugr/30147/15          -  Environment setup, initial contracts, coordination 
-4 - Moges Tesema          - Ugr/30952/15             -  Environment setup, initial contracts, coordination 
-5 - Wondimeneh Fiqadu     - ugr/31346/15              -  Environment setup, initial contracts, coordination 
-6 - Tesfaye Zeleke        - ugr/25639/14            -  Environment setup, initial contracts, coordination 
+1 - Huzeyfa Suleyman      - Ugr/30699/15      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
+2 - Chernet Mequannent    - Ugr/26553/14      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
+3 - Amanuel Asfaw         - Ugr/30147/15      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
+4 - Moges Tesema          - Ugr/30952/15      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
+5 - Wondimeneh Fiqadu     - ugr/31346/15      - https://github.com/shuzeyfa       -  Environment setup, initial contracts, coordination 
+6 - Tesfaye Zeleke        - ugr/25639/14      - https://github.com/shuzeyfa      -  Environment setup, initial contracts, coordination 
 
 
 All contributions are reflected in the repository commit history.
