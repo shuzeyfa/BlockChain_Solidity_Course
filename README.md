@@ -38,11 +38,11 @@ Through this project, the following concepts were implemented and tested:
 | Name                | ID             | GitHub Profile                      | Responsibilities                              |
 |---------------------|----------------|-------------------------------------|----------------------------------------------|
 | Huzeyfa Suleyman    | UGR/30699/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
-| Chernet Mequannent  | UGR/26553/14   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
-| Amanuel Asfaw       | UGR/30147/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
-| Moges Tesema        | UGR/30952/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
-| Wondimeneh Fiqadu   | UGR/31346/15   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
-| Tesfaye Zeleke      | UGR/25639/14   | https://github.com/shuzeyfa         | Environment setup, initial contracts, coordination |
+| Chernet Mequannent  | UGR/26553/14   | https://github.com/Cherm884         | Environment setup, initial contracts, coordination |
+| Amanuel Asfaw       | UGR/30147/15   | https://github.com/Amuni00          | Environment setup, initial contracts, coordination |
+| Moges Tesema        | UGR/30952/15   | https://github.com/mogestesema      | Environment setup, initial contracts, coordination |
+| Wondimeneh Fiqadu   | UGR/31346/15   | https://github.com/wondmeneh123     | Environment setup, initial contracts, coordination |
+| Tesfaye Zeleke      | UGR/25639/14   | https://github.com/abizeleke        | Environment setup, initial contracts, coordination |
 
 
 All contributions are reflected in the repository commit history.
